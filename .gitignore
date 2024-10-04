@@ -1,0 +1,17 @@
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# Maven target directory
+/target/
+
+# IDE-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Other temporary files
+*.DS_Store
